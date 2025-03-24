@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+header{
+    padding: 15px;
+    background-color: rgba(71,109,147,1);
+    color: white;
+}
+aside{
+    padding: 15px;
+    background-color: rgba(144,94,65, 1);
+    color: white;
+}
+
+main{
+    padding: 15px;    
+    background-color: rgba(153,127,40, 1);
+    color: white;
+}
+footer{
+    padding: 15px;
+    background-color: rgba(71,109,147,1);
+    color: white;
+}
+
